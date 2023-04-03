@@ -4,7 +4,7 @@ build-backends = "setuptools.build_meta"
 
 [tool.pytest.ini_options]
 testpath = [
-    "tests"
+    "test"
 ]
 
 [tool.mypy]
